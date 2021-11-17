@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A39068F273719950023ED44 /* 5.FruitsIntoBaskets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A39068E273719950023ED44 /* 5.FruitsIntoBaskets.swift */; };
+		4A39069127371D170023ED44 /* 5.FruitsIntoBasketsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A39069027371D170023ED44 /* 5.FruitsIntoBasketsTests.swift */; };
+		4A39069227371D390023ED44 /* 5.FruitsIntoBaskets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A39068E273719950023ED44 /* 5.FruitsIntoBaskets.swift */; };
+		4A39069427371E950023ED44 /* 6.NoRepeatSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A39069327371E950023ED44 /* 6.NoRepeatSubstring.swift */; };
 		4A6D253A272C4AD200C56220 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6D2539272C4AD200C56220 /* main.swift */; };
 		4A6D2541272C4AF000C56220 /* 1.AverageOfSubarrayOfSizeK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6D2540272C4AF000C56220 /* 1.AverageOfSubarrayOfSizeK.swift */; };
 		4A6D2543272C4FA900C56220 /* 2.MaxSumSubArrayOfSizeK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6D2542272C4FA900C56220 /* 2.MaxSumSubArrayOfSizeK.swift */; };
@@ -18,6 +22,10 @@
 		4A6D255A2730773000C56220 /* 3.MinSizeSubArraySum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6D2544272C6D2200C56220 /* 3.MinSizeSubArraySum.swift */; };
 		4A6D255B2730773000C56220 /* 4.LongestSubstringKDistinct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6D2546272C71E300C56220 /* 4.LongestSubstringKDistinct.swift */; };
 		4AE7547B27330BF300FBB7B6 /* 2.MaxSumSubArrayOfSizeKTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE7547A27330BF300FBB7B6 /* 2.MaxSumSubArrayOfSizeKTests.swift */; };
+		4AE7547D27330DA500FBB7B6 /* 3.MinSizeSubArraySumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE7547C27330DA500FBB7B6 /* 3.MinSizeSubArraySumTests.swift */; };
+		4AE7547F273316EF00FBB7B6 /* 4.LongestSubstringKDistinctTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE7547E273316EF00FBB7B6 /* 4.LongestSubstringKDistinctTests.swift */; };
+		4AE9A66C2745C120000C3AB2 /* 6.NoRepeatSubstringTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE9A66B2745C120000C3AB2 /* 6.NoRepeatSubstringTests.swift */; };
+		4AE9A66D2745C188000C3AB2 /* 6.NoRepeatSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A39069327371E950023ED44 /* 6.NoRepeatSubstring.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +41,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4A39068E273719950023ED44 /* 5.FruitsIntoBaskets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5.FruitsIntoBaskets.swift; sourceTree = "<group>"; };
+		4A39069027371D170023ED44 /* 5.FruitsIntoBasketsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5.FruitsIntoBasketsTests.swift; sourceTree = "<group>"; };
+		4A39069327371E950023ED44 /* 6.NoRepeatSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 6.NoRepeatSubstring.swift; sourceTree = "<group>"; };
 		4A6D2536272C4AD100C56220 /* GrokkingTheCodingInterview */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GrokkingTheCodingInterview; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A6D2539272C4AD200C56220 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4A6D2540272C4AF000C56220 /* 1.AverageOfSubarrayOfSizeK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.AverageOfSubarrayOfSizeK.swift; sourceTree = "<group>"; };
@@ -43,6 +54,9 @@
 		4A6D254E2730766700C56220 /* 1.AverageOfSubarrayOfSizeKTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.AverageOfSubarrayOfSizeKTests.swift; sourceTree = "<group>"; };
 		4A6D25502730766700C56220 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4AE7547A27330BF300FBB7B6 /* 2.MaxSumSubArrayOfSizeKTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.MaxSumSubArrayOfSizeKTests.swift; sourceTree = "<group>"; };
+		4AE7547C27330DA500FBB7B6 /* 3.MinSizeSubArraySumTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3.MinSizeSubArraySumTests.swift; sourceTree = "<group>"; };
+		4AE7547E273316EF00FBB7B6 /* 4.LongestSubstringKDistinctTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4.LongestSubstringKDistinctTests.swift; sourceTree = "<group>"; };
+		4AE9A66B2745C120000C3AB2 /* 6.NoRepeatSubstringTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 6.NoRepeatSubstringTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +120,8 @@
 				4A6D2542272C4FA900C56220 /* 2.MaxSumSubArrayOfSizeK.swift */,
 				4A6D2544272C6D2200C56220 /* 3.MinSizeSubArraySum.swift */,
 				4A6D2546272C71E300C56220 /* 4.LongestSubstringKDistinct.swift */,
+				4A39068E273719950023ED44 /* 5.FruitsIntoBaskets.swift */,
+				4A39069327371E950023ED44 /* 6.NoRepeatSubstring.swift */,
 			);
 			path = SlidingWindow;
 			sourceTree = "<group>";
@@ -115,6 +131,10 @@
 			children = (
 				4A6D254E2730766700C56220 /* 1.AverageOfSubarrayOfSizeKTests.swift */,
 				4AE7547A27330BF300FBB7B6 /* 2.MaxSumSubArrayOfSizeKTests.swift */,
+				4AE7547C27330DA500FBB7B6 /* 3.MinSizeSubArraySumTests.swift */,
+				4AE7547E273316EF00FBB7B6 /* 4.LongestSubstringKDistinctTests.swift */,
+				4A39069027371D170023ED44 /* 5.FruitsIntoBasketsTests.swift */,
+				4AE9A66B2745C120000C3AB2 /* 6.NoRepeatSubstringTests.swift */,
 			);
 			path = SlidingWindow;
 			sourceTree = "<group>";
@@ -208,7 +228,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A6D2545272C6D2200C56220 /* 3.MinSizeSubArraySum.swift in Sources */,
+				4A39068F273719950023ED44 /* 5.FruitsIntoBaskets.swift in Sources */,
 				4A6D253A272C4AD200C56220 /* main.swift in Sources */,
+				4A39069427371E950023ED44 /* 6.NoRepeatSubstring.swift in Sources */,
 				4A6D2547272C71E300C56220 /* 4.LongestSubstringKDistinct.swift in Sources */,
 				4A6D2541272C4AF000C56220 /* 1.AverageOfSubarrayOfSizeK.swift in Sources */,
 				4A6D2543272C4FA900C56220 /* 2.MaxSumSubArrayOfSizeK.swift in Sources */,
@@ -223,8 +245,14 @@
 				4A6D25582730773000C56220 /* 2.MaxSumSubArrayOfSizeK.swift in Sources */,
 				4A6D255B2730773000C56220 /* 4.LongestSubstringKDistinct.swift in Sources */,
 				4A6D25592730773000C56220 /* 1.AverageOfSubarrayOfSizeK.swift in Sources */,
+				4AE7547F273316EF00FBB7B6 /* 4.LongestSubstringKDistinctTests.swift in Sources */,
+				4AE9A66C2745C120000C3AB2 /* 6.NoRepeatSubstringTests.swift in Sources */,
+				4A39069227371D390023ED44 /* 5.FruitsIntoBaskets.swift in Sources */,
+				4AE9A66D2745C188000C3AB2 /* 6.NoRepeatSubstring.swift in Sources */,
+				4AE7547D27330DA500FBB7B6 /* 3.MinSizeSubArraySumTests.swift in Sources */,
 				4A6D255A2730773000C56220 /* 3.MinSizeSubArraySum.swift in Sources */,
 				4AE7547B27330BF300FBB7B6 /* 2.MaxSumSubArrayOfSizeKTests.swift in Sources */,
+				4A39069127371D170023ED44 /* 5.FruitsIntoBasketsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
